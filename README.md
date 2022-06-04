@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 🤝 Connect with me :
+### 🤝 Connect with me :
 
 <p align = "center">
 [<img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://codecrow.io)
