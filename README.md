@@ -26,6 +26,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## 🤝 Connect with me :
+
+<p align = "center">
+[<img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://codecrow.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/GaganSuie) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gagandeep-singh-135b2334/)
+</p>
+
 ---
 
 ### :fire: My Stats :
