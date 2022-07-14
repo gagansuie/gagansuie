@@ -1,5 +1,5 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
-### Web3, Mobile, Cloud, Gaming
+### Web3, Mobile, Cloud, Devops, Gaming
 - 👨‍💻 I’m currently working on Code Crow and MVP
 - 🌱 I’m currently learning Unreal Engine 5 and Svelte
 - 💬 Ask me about Web3, Android, iOS, MEAN stack, Unreal Engine 5, CICD, AWS, and everything inbetween
