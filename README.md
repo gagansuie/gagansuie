@@ -2,7 +2,7 @@
 ### Web3, Mobile, Cloud, Devops, Gaming
 - 👨‍💻 I’m currently working on Code Crow and MVP
 - 🌱 I’m currently learning Unreal Engine 5 and Svelte
-- 💬 Ask me about Web3, Android, iOS, MEAN stack, Unreal Engine 5, CICD, AWS, and everything inbetween
+- 💬 Ask me about Web3, Android, iOS, Jamstack, Unreal Engine 5, CICD, AWS, and everything inbetween
 - 📫 How to reach me: Discord: G4G4N#6106
 - ⚡ Fun fact: I've been coding everyday for 14 years
 - 📚 Currently reading: Startup CEO by Matt Blumberg
