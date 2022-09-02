@@ -5,7 +5,7 @@
 - 💬 Ask me about Web3, Android, iOS, Jamstack, Unreal Engine 5, CICD, AWS, and everything inbetween
 - 📫 How to reach me: Discord: G4G4N#6106
 - ⚡ Fun fact: I've been coding everyday for 14 years
-- 📚 Currently reading: Startup CEO by Matt Blumberg
+- 📚 Currently reading: A CEO Only Does Three Things by Trey Taylor
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
