@@ -2,7 +2,7 @@
 ### Web3, Mobile, Cloud, Devops, Gaming
 - 👨‍💻 I’m currently working on Code Crow, MVP, and infinibuild
 - 🌱 I’m currently learning Unreal Engine 5, Svelte, and Rust
-- 💬 Ask me about Web3, Android, iOS, Jamstack, Unreal Engine 5, CICD, AWS, and everything inbetween
+- 💬 Ask me about Web3, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: Discord: G4G4N#6106
 - ⚡ Fun fact: I've been coding everyday for 14 years
 - 📚 Currently reading: A CEO Only Does Three Things by Trey Taylor
