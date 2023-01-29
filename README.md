@@ -5,7 +5,7 @@
 - 💬 Ask me about Web3, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: Discord: G4G4N#6106
 - ⚡ Fun fact: I've been coding everyday for 14 years
-- 📚 Currently reading: When They Win, You Win by Russ Laraway
+- 📚 Currently reading: Trust and Inspire by Stephen M. R. Covey
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
