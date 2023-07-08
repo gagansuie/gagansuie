@@ -64,7 +64,10 @@
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
   <a href="https://devrant.com/users/gagan-suie">
-    <img src="https://img.shields.io/badge/devRant-orange?style=for-the-badge&logo=devrant&logoColor=white" alt="TikTok Badge"/>
+    <img src="https://img.shields.io/badge/devRant-indianred?style=for-the-badge&logo=devrant&logoColor=white" alt="devRant Badge"/>
+  </a>
+  <a href="https://www.reddit.com/user/gagan-suie">
+    <img src="https://img.shields.io/badge/Reddit-orangered?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
 
