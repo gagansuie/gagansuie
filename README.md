@@ -57,6 +57,15 @@
   <a href="https://www.linkedin.com/in/gagandeep-singh-135b2334/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCJPy33RBfa4O_vxbuRT5gRg">
+    <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://www.tiktok.com/@gagan.suie">
+    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+  </a>
+  <a href="https://devrant.com/users/gagan-suie">
+    <img src="https://img.shields.io/badge/devRant-orange?style=for-the-badge&logo=devrant&logoColor=white" alt="TikTok Badge"/>
+  </a>
 </div>
 
 ---
