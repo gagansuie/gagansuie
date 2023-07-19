@@ -69,6 +69,9 @@
   <a href="https://www.reddit.com/user/gagan-suie">
     <img src="https://img.shields.io/badge/Reddit-orangered?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
+  <a href="https://www.threads.net/@gagan.suie">
+    <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
+  </a>
 </div>
 
 ---
