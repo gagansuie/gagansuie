@@ -2,7 +2,7 @@
 ### AI, Web3, Mobile, Cloud, Devops, Gaming
 - 👨‍💻 I’m currently working on Mage
 - 🌱 I’m currently learning Svelte and Rust
-- 💬 Ask me about Web3, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
+- 💬 Ask me about AI, Web3, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: Discord: G4G4N#6106
 - ⚡ Fun fact: I've been coding everyday for 15 years
 - 📚 Currently reading: CEO Excellence by Carolyn Dewar
