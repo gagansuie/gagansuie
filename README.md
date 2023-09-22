@@ -63,7 +63,7 @@
   <a href="https://www.youtube.com/channel/UCJPy33RBfa4O_vxbuRT5gRg">
     <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://www.tiktok.com/@gagan.suie">
+  <a href="https://www.tiktok.com/@gagansuie">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
   <a href="https://devrant.com/users/gagan-suie">
