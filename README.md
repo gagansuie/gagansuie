@@ -51,16 +51,16 @@
   <a href="https://twitter.com/GaganSuie">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.threads.net/@gagan.suie">
+    <a href="https://www.threads.net/@gagansuie">
     <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/gagan-suie/">
+  <a href="https://www.linkedin.com/in/gagansuie/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.gg/CodeCrow">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCJPy33RBfa4O_vxbuRT5gRg">
+  <a href="https://www.youtube.com/@gagansuie">
     <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="https://www.tiktok.com/@gagansuie">
