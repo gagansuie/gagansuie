@@ -56,11 +56,14 @@
   <a href="https://discord.gg/CodeCrow">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://www.youtube.com/@gagansuie">
-    <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
+  <a href="https://www.twitch.tv/gagansuie">
+    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
+  </a>  
   <a href="https://www.tiktok.com/@gagansuie">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@gagansuie">
+    <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="https://devrant.com/users/gagan-suie">
     <img src="https://img.shields.io/badge/devRant-indianred?style=for-the-badge&logo=devrant&logoColor=white" alt="devRant Badge"/>
