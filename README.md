@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://www.twitch.tv/gagansuie">
-    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
+    <img src="https://img.shields.io/badge/Twitch-7b52f3?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>  
   <a href="https://www.tiktok.com/@gagansuie">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
