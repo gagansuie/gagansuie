@@ -3,7 +3,7 @@
 - 👨‍💻 I’m currently working on Mage
 - 🌱 I’m currently learning Svelte and Rust
 - 💬 Ask me about AI, Web3, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
-- 📫 How to reach me: LinkedIn or Twitter
+- 📫 How to reach me: LinkedIn and Twitter
 - ⚡ Fun fact: I've been coding everyday for 15 years
 - 📚 Currently reading: CEO Excellence by Carolyn Dewar
 
