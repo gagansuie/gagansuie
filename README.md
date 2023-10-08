@@ -78,7 +78,7 @@
 ### :fire: My Stats (includes private repos):
 
 ![](https://raw.githubusercontent.com/gagansuie/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/gagan-suie/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/gagansuie/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <!-- <a href="https://github.com/gagan-suie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gagan-suie&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gagan's github stats" /></a> -->
