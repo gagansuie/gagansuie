@@ -1,8 +1,8 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
-### AI, Web3, Mobile, Cloud, Devops, Gaming
+### AI, Mobile, Cloud, Devops, Gaming
 - 👨‍💻 I’m currently working on Mage
 - 🌱 I’m currently learning Svelte and Unreal Engine 5
-- 💬 Ask me about AI, Web3, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
+- 💬 Ask me about AI, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
 - ⚡ Fun fact: I've been coding everyday for 15 years
 - 📚 Currently reading: CEO Excellence by Carolyn Dewar
