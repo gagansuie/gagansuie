@@ -69,9 +69,6 @@
   <a href="https://www.youtube.com/@gagansuie">
     <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://devrant.com/users/gagan-suie">
-    <img src="https://img.shields.io/badge/devRant-indianred?style=for-the-badge&logo=devrant&logoColor=white" alt="devRant Badge"/>
-  </a>
   <a href="https://www.reddit.com/user/gagan-suie">
     <img src="https://img.shields.io/badge/Reddit-orangered?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
