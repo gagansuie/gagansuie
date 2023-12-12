@@ -8,7 +8,7 @@
 - 📚 Currently reading: CEO Excellence by Carolyn Dewar
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 #### Active
 <div>
@@ -69,14 +69,11 @@
   <a href="https://www.youtube.com/@gagansuie">
     <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://www.reddit.com/user/gagan-suie">
-    <img src="https://img.shields.io/badge/Reddit-orangered?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
 </div>
 
 ---
 
-### :fire: My Stats (includes private repos):
+### 🔥 My Stats (includes private repos):
 
 ![](https://raw.githubusercontent.com/gagansuie/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/gagansuie/github-stats/master/generated/languages.svg#gh-dark-mode-only)
