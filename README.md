@@ -5,7 +5,7 @@
 - 💬 Ask me about AI, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
 - ⚡ Fun fact: I've been coding everyday for 15 years
-- 📚 Currently reading: CEO Excellence by Carolyn Dewar
+- 📚 Currently reading: Influence, The Psychology of Persuasion by Robert B. Cialdini
 
 ---
 ### 🛠️ Languages and Tools :
