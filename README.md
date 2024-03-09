@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/gagansuie/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.gg/CodeCrow">
+  <a href="https://discord.com/invite/UTmwcwNVPN">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://www.twitch.tv/gagansuie">
