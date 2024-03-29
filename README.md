@@ -61,9 +61,9 @@
   <a href="https://www.twitch.tv/gagansuie">
     <img src="https://img.shields.io/badge/Twitch-7b52f3?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>  
-  <a href="https://kick.com/gagansuie">
+<!--   <a href="https://kick.com/gagansuie">
     <img src="https://img.shields.io/badge/Kick-47c919?style=for-the-badge&logo=kick&logoColor=white" alt="Kick Badge"/>
-  </a>  
+  </a>   -->
   <a href="https://www.tiktok.com/@gagansuie">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
