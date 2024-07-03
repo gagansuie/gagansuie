@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Svelte and iOS
 - 💬 Ask me about AI, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
-- ⚡ Fun fact: I've been coding everyday for 15 years
+- ⚡ Fun fact: I've been coding everyday for 13 years
 - 📚 Currently reading: Influence, The Psychology of Persuasion by Robert B. Cialdini
 
 ---
