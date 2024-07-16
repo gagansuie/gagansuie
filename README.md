@@ -1,7 +1,7 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
-### AI, Mobile, Cloud, Devops, Gaming
-- 👨‍💻 I’m currently working on Mage
-- 🌱 I’m currently learning Svelte and iOS
+### Web, Mobile, Cloud, Devops, Gaming
+- 👨‍💻 I’m currently working on OneWeek and Mage
+- 🌱 I’m currently learning Svelte and Kotlin Multiplatform
 - 💬 Ask me about AI, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
 - ⚡ Fun fact: I've been coding everyday for 13 years
