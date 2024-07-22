@@ -1,8 +1,8 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
-### Web, Mobile, Cloud, Devops, Gaming
+### ML, Web, Mobile, Cloud, Devops, Gaming
 - 👨‍💻 I’m currently working on OneWeek and Mage
 - 🌱 I’m currently learning Svelte and Kotlin Multiplatform
-- 💬 Ask me about AI, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
+- 💬 Ask me about Machine Learning, Android, iOS, Jamstack, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
 - ⚡ Fun fact: I've been coding everyday for 13 years
 - 📚 Currently reading: Influence, The Psychology of Persuasion by Robert B. Cialdini
@@ -12,6 +12,10 @@
 
 #### Active
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;     
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
@@ -40,8 +44,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;     
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>&nbsp;
 </div>
