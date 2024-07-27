@@ -2,7 +2,7 @@
 ### ML, Web, Mobile, Cloud, Devops, Gaming
 - 👨‍💻 I’m currently working on OneWeek and Mage
 - 🌱 I’m currently learning ML and LLM
-- 💬 Ask me about Machine Learning, Jamstack, API, Android, iOS, Unreal Engine 5, CICD, Cloudflare, and everything inbetween
+- 💬 Ask me about Machine Learning, Jamstack, API, Android, iOS, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
 - ⚡ Fun fact: I've been coding everyday for 13 years
 - 📚 Currently reading: Influence, The Psychology of Persuasion by Robert B. Cialdini
