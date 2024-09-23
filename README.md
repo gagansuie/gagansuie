@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning neural networks, deep learning, and natural language processing
 - 💬 Ask me about Machine Learning, Jamstack, API, Android, iOS, CICD, Cloudflare, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
-- ⏳ Experience: 4 years leading, 13 years coding
+- ⏳ Experience: 5 years leading, 13 years coding
 - ⚡ Fun fact: I love building custom mini ITX PCs
 - 📚 Currently reading: Influence, The Psychology of Persuasion by Robert B. Cialdini
 
