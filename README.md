@@ -1,5 +1,5 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
-### ML, Web, Mobile, Cloud, Devops, Gaming
+### ML, Cloud, Devops, Web, Mobile, Gaming
 - 👨‍💻 I’m currently working on OneWeek and Mage
 - 🌱 I’m currently learning neural networks, deep learning, and natural language processing
 - 💬 Ask me about Machine Learning, Jamstack, API, Android, iOS, CICD, Cloudflare, and everything inbetween
