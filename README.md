@@ -2,7 +2,7 @@
 ### ML, Cloud, Devops, Web, Mobile, Gaming
 - 👨‍💻 I’m currently working on OneWeek and Mage
 - 🌱 I’m currently learning neural networks, deep learning, and natural language processing
-- 💬 Ask me about Machine Learning, Jamstack, API, Android, iOS, CICD, Cloudflare, and everything inbetween
+- 💬 Ask me about Machine Learning, Jamstack, API, CICD, Cloudflare, Android, iOS, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
 - ⏳ Experience: 5 years leading, 13 years coding
 - ⚡ Fun fact: I love building custom mini ITX PCs
