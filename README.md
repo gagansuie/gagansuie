@@ -62,9 +62,9 @@
   <a href="https://www.linkedin.com/in/gagansuie/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.mage.stream">
+<!--   <a href="https://discord.mage.stream">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
+  </a> -->
   <a href="https://www.twitch.tv/gagansuie">
     <img src="https://img.shields.io/badge/Twitch-7b52f3?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>  
