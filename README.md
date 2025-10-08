@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [AutoRAG](https://developers.cloudflare.com/autorag/)
 - 💬 Ask me about Machine Learning, Jamstack, API, CICD, Cloudflare, Android, iOS, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
-- ⏳ Experience: 5 years leading, 13 years coding
+- ⏳ Experience: 5 years leading, 14 years coding
 - ⚡ Fun fact: I love building custom mini ITX PCs
 - 📚 Currently reading: Influence, The Psychology of Persuasion by Robert B. Cialdini
 
