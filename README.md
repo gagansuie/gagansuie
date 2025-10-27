@@ -57,7 +57,7 @@
 ### 🤝 Connect with me :
 
 <div id="badges">
-  <a href="https://twitter.com/GaganSuie">
+  <a href="https://twitter.com/gagansuie">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   <a href="https://threads.com/gagansuie">
     <img src="https://img.shields.io/badge/Threads-000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
