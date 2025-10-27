@@ -1,10 +1,10 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
 ### ML, Cloud, Devops, Web, and Mobile
 - 👨‍💻 I’m currently working on OneWeek and Mage
-- 🌱 I’m currently learning [AutoRAG](https://developers.cloudflare.com/autorag/)
+- 🌱 I’m currently learning [CF AI Search](https://developers.cloudflare.com/ai-search/)
 - 💬 Ask me about Machine Learning, Jamstack, API, CICD, Cloudflare, Android, iOS, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
-- ⏳ Experience: 5 years leading, 14 years coding
+- ⏳ Experience: 14 years engineering
 - ⚡ Fun fact: I love building custom mini ITX PCs
 - 📚 Currently reading: Influence, The Psychology of Persuasion by Robert B. Cialdini
 
