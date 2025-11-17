@@ -61,8 +61,6 @@
     <img src="https://img.shields.io/badge/X%20(Twitter)-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   <a href="https://threads.com/gagansuie">
     <img src="https://img.shields.io/badge/Threads-000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
-  <a href="https://bluesky.com/gagansuie">
-    <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white" alt="Threads Badge"/>
   <a href="https://www.linkedin.com/in/gagansuie/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn Badge"/>
   </a>
