@@ -1,6 +1,7 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
 ### ML, Cloud, Devops, Web, and Mobile
 - 👨‍💻 I’m currently working on Zefr and Tenpak (TensorPack)
+- 🔧 I built [Mage](https://mage.stream) and [OneWeek](https://oneweek.work)
 - 🌱 I’m currently learning Algorithms in AI
 - 💬 Ask me about Machine Learning, Jamstack, API, CICD, Cloudflare, Android, iOS, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
@@ -14,6 +15,7 @@
 #### Active
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
@@ -22,16 +24,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;     
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
@@ -45,10 +44,13 @@
 
 #### Past
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
 
