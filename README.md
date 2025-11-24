@@ -1,13 +1,13 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
 ### ML, Cloud, Devops, Web, and Mobile
 - 👨‍💻 I’m currently working on Zefr and Tenpak (TensorPack)
-- 🔧 I built [Mage](https://mage.stream) and [OneWeek](https://oneweek.work)
 - 🌱 I’m currently learning Algorithms in AI
 - 💬 Ask me about Machine Learning, Jamstack, API, CICD, Cloudflare, Android, iOS, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
 - ⏳ Experience: 14 years engineering
 - ⚡ Fun fact: I love building custom mini ITX PCs
 - 📚 Currently reading: Influence, The Psychology of Persuasion by Robert B. Cialdini
+- 🔧 Past projects: [Mage](https://mage.stream) and [OneWeek](https://oneweek.work)
 
 ---
 ### 🛠️ Languages and Tools :
