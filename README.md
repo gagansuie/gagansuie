@@ -7,7 +7,7 @@
 - ⏳ Experience: 14 years engineering
 - ⚡ Fun fact: I love building custom mini ITX PCs
 - 📚 Currently reading: Influence, The Psychology of Persuasion by Robert B. Cialdini
-- 🔧 Past projects: [Zefr](https://zefr.io), [Mage](https://mage.stream) and [OneWeek](https://oneweek.work)
+- 🔧 Past projects: [Mage](https://mage.stream), [OneWeek](https://oneweek.work), and [Zefr](https://zefr.io)
 
 ---
 ### 🛠️ Languages and Tools :
