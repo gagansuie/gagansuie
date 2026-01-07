@@ -1,6 +1,6 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
 ### ML, Cloud, Devops, Web, and Mobile
-- 👨‍💻 I’m currently working on [Sparse](https://pypi.org/project/sparse-llm/)
+- 👨‍💻 I’m currently working on Oxidize and [Sparse](https://pypi.org/project/sparse-llm/)
 - 🌱 I’m currently learning Algorithms in AI
 - 💬 Ask me about Machine Learning, Jamstack, API, CICD, Cloudflare, Android, iOS, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
