@@ -1,6 +1,6 @@
 ## 🦸‍♂️ I am the PR the code economy needs 
 ### ML, Cloud, Devops, Web, and Mobile
-- 👨‍💻 I’m currently working on [Oxidize](https://github.com/gagansuie/oxidize)
+- 👨‍💻 I’m currently working on [Oxidize](https://oxd.sh)
 - 🌱 I’m currently learning Networking architecture
 - 💬 Ask me about Machine Learning, Jamstack, API, CICD, Cloudflare, Android, iOS, and everything inbetween
 - 📫 How to reach me: LinkedIn and Twitter
