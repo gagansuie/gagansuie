@@ -69,9 +69,6 @@
 <!--   <a href="https://discord.mage.stream">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a> -->
-  <a href="https://www.twitch.tv/gagansuie">
-    <img src="https://img.shields.io/badge/Twitch-7b52f3?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-  </a>  
 <!--   <a href="https://kick.com/gagansuie">
     <img src="https://img.shields.io/badge/Kick-47c919?style=for-the-badge&logo=kick&logoColor=white" alt="Kick Badge"/>
   </a>   -->
